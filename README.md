@@ -25,9 +25,9 @@ Qui ci sono alcune idee, TBA
 
 Se desiderate contribuire con un regalo in denaro, ecco l'IBAN dove potete effettuare il bonifico:
 
-Nome del beneficiario: Martina Nicolai
+Nome del beneficiario: **Martina Nicolai**
 
-IBAN: IT21O 3600 3342 1060 0000 1829 71
+**IBAN: IT21O 3600 3342 1060 0000 1829 71**
 
 Vi ringraziamo in anticipo per ogni pensiero e gesto di affetto verso Elena. 
 Siamo contenti di condividere questo momento con voi!
