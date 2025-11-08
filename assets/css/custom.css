@@ -1,0 +1,41 @@
+:root {
+  --link-color: #e91e63;
+  --link-visited: #ad1457;
+  --link-hover: #c2185b;
+  --link-active: #880e4f;
+}
+
+/* Base link styles */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+a:hover,
+a:focus {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+a:active {
+  color: var(--link-active);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --link-color: #ff79b0;
+    --link-visited: #ff9acb;
+    --link-hover: #ff5fa3;
+    --link-active: #ff3d8a;
+  }
+}
+
+/* Ensure specificity if theme sets link colors */
+body a {
+  color: var(--link-color);
+}
