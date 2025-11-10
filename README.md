@@ -17,10 +17,11 @@ Se preferite fare un regalo diverso da quelli nella lista Amazon, potete sceglie
 - [ ] Regalo ancora da comprare
 - [X] Regalo prenotato
  
-Qui ci sono alcune idee, TBA
+Qui ci sono alcune idee,
 
 - [ ] Buoni Prénatal
 - [ ] Buoni Primigi
+- [ ] [copertina lettino](https://share.google/jk6UfAhiFRZEoZ4lq)
 
 
 ## IBAN per Regalo
