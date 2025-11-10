@@ -6,7 +6,7 @@ Qui troverete tutte le informazioni necessarie per contribuire con un possibile 
 ## Lista [Amazon](https://www.amazon.it/baby-reg/martina-nicolai-dicembre-2025-roma/1B7LTDZH1WFSK?ref_=cm_sw_r_mwn_dp_SW2BJFQVXZRABNWGBMGF&language=en-US)
 
 Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere per Elena. Potete trovare la lista [seguendo questo link](https://www.amazon.it/baby-reg/martina-nicolai-dicembre-2025-roma/1B7LTDZH1WFSK?ref_=cm_sw_r_mwn_dp_SW2BJFQVXZRABNWGBMGF&language=en-US).
-I regali arriveranno direttamente a nonna, e vengono automaticamente spuntati. 
+I regali arriveranno direttamente a noi, e vengono automaticamente spuntati. 
 "0 di 1 acquistato" vuol dire che non è ancora stato acquistato;
 "1 di 1 acquistato" vuol dire che è già stato regalato quindi non acquistatelo nuovamente! 
 
