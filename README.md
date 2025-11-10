@@ -19,7 +19,9 @@ Se preferite fare un regalo diverso da quelli nella lista Amazon, potete sceglie
  
 Qui ci sono alcune idee, TBA
 
-- [ ] to be announced
+- [ ] Buoni Prénatal
+- [ ] Buoni Primigi
+
 
 ## IBAN per Regalo
 
