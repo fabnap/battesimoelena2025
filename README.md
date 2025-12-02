@@ -22,7 +22,7 @@ Qui ci sono alcune idee,
 - [ ] Buoni Prénatal
 - [ ] Buoni Primigi
 - [ ] [copertina lettino](https://share.google/jk6UfAhiFRZEoZ4lq)
-- [ ] [marsupio ergonomico](https://www.monilu.it/prodotto/marsupio-regolabile-monilu-uni-plus-australia-uluru/)
+- [X] [marsupio ergonomico](https://www.monilu.it/prodotto/marsupio-regolabile-monilu-uni-plus-australia-uluru/)
 
 ## IBAN per Regalo
 
